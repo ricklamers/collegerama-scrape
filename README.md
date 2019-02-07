@@ -7,3 +7,5 @@ Use get-from-web.js on the index page of Collegerama index listing and paste the
 var lectures = [ <output of get-from-web.js> ];
 
 ```
+
+To run scrape.js install node.js and run npm install to install dependencies in package.json.
