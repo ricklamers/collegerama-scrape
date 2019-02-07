@@ -1,6 +1,6 @@
 ## Scrape Collegerama videos
 
-Use get-from-web.js on the index page of Collegerama index listing and paste the printed value in scrape.js to download the video files to the data directory.
+Use get-from-web.js (run from browser console) on the index page of Collegerama index listing and paste the printed value in scrape.js to download the video files to the data directory.
 
 ```
 
