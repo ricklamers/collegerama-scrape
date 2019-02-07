@@ -4,6 +4,6 @@ Use get-from-web.js on the index page of Collegerama index listing and paste the
 
 ```
 
-var lectures = [ <output of get-fr-om-web.js> ];
+var lectures = [ <output of get-from-web.js> ];
 
 ```
